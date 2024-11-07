@@ -16,3 +16,8 @@ int main() {
     SaisirEtAfficherDifference();
     return 0;
 }
+
+// Explications
+// Saisie des nombres : La fonction demande à l'utilisateur de saisir deux entiers.
+// Calcul de la différence : La différence entre les deux nombres est calculée.
+// Affichage de la valeur absolue : La fonction abs() de la bibliothèque <stdlib.h> est utilisée pour afficher la valeur absolue de la différence.
