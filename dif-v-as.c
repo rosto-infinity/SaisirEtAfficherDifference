@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> // Pour la fonction abs()
 
-void SaisirEtAfficherDifference() {
+void SaisirEtAffDif() {
     int a, b;
     printf("Entrez le premier nombre : ");
     scanf("%d", &a);
@@ -13,7 +13,7 @@ void SaisirEtAfficherDifference() {
 }
 
 int main() {
-    SaisirEtAfficherDifference();
+    SaisirEtAffDif();
     return 0;
 }
 
